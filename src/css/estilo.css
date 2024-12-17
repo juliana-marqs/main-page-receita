@@ -33,7 +33,7 @@ body{
     background-color: hsl(0, 0%, 100%);
     max-width: 100%;
     width: 700px;
-    margin: auto;
+    margin: 100px auto;
     border-radius: 20px;
     border: 4px solid var(--stone-150);
     padding: 10px;
